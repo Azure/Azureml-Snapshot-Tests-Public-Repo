@@ -1,6 +1,6 @@
 - name: Ask
   description: Define and scope problem and solution
-  color: #c9ecff
+  color: #c9ecf
 
 - name: Explore
   description: Explore and document data to increase understanding
